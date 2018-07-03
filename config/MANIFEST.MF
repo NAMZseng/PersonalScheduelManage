@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: login_up.HomePage
+Class-Path:  F:\ATech\Codes\WorkPlace\PersonalScheduelManage\lib\jcommon-1.0.20.jar  
+                   F:\ATech\Codes\WorkPlace\PersonalScheduelManage\lib\jfreechart-1.0.16.jar
+                   D:\sqljdbc6.4\mssql-jdbc-6.4.0.jre8.jar
