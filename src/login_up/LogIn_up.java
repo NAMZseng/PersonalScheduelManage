@@ -20,7 +20,7 @@ import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 
 import DB.ConnectDB;
-import adminstrator.AdminFrame;
+import administrator.AdminFrame;
 import users.UserFrame;
 
 /*
